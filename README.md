@@ -1,7 +1,11 @@
 ## Web Installer
 
 Mit diesem Tool kannst du das vollständige Backup des ESP32‑C3 Mini AI‑Sprachdialog Modul Revisionv0.4 mit 16MB Flash zurückspielen.
-[ESP32_c3 Modul Revisionv0.4](https://amzn.to/4aTyhv8))
+
+Projektseite: [Prilchen LABS](https://prilchen.de/ai-sprachdialog-mit-einem-kleinen-esp32-c3/)
+
+Amazon: [ESP32_c3 Modul Revisionv0.4](https://amzn.to/4aTyhv8)
+
 Verwendung in eigener Verantwortung. 
 
 [ESP Web Installer starten](https://prilchen.github.io/ESP32-C3MiniAI-Sprachdialogwebinstaller/)
