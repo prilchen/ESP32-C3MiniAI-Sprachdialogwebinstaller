@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "builds": [
     {
-      "chipFamily": "ESP32_C3",
+      "chipFamily": "ESP32",
       "parts": [
         {
           "path": "esp32_c3_ki_r04_backup.bin",
