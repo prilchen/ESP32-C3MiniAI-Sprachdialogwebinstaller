@@ -15,3 +15,9 @@ Verwendung in eigener Verantwortung.
 </a>
 
 [ESP Web Installer starten](https://prilchen.github.io/ESP32-C3MiniAI-Sprachdialogwebinstaller/)
+
+INFO:
+
+Details zum ESP32 und wie Image erstellt wurde
+
+<img width="1053" height="382" alt="cmd1" src="https://github.com/user-attachments/assets/77de3c20-ecf4-4589-ae93-5e543af6f7e9" />
