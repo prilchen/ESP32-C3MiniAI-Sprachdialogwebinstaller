@@ -25,6 +25,7 @@ Details zum ESP32 und wie Image erstellt wurde
 Alternativ manuell mit dem ESPTool zurück spielen:
 
 Im Gerätemanager COM Port suchen und bei COMX eintragen Beispiel COM 10 = COM10
+
 Prüfen ob Modul identisch ist mit:
 
 python -m esptool -p COMX chip_id
