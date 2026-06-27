@@ -25,12 +25,15 @@ Details zum ESP32 und wie Image erstellt wurde
 Alternativ manuell mit dem ESPTool zurück spielen:
 
 Im Gerätemanager COM Port suchen und bei COMX eintragen Beispiel COM 10 = COM10
-Prüfen ob Modul identisch ist mit 
+Prüfen ob Modul identisch ist mit:
+
 python -m esptool -p COMX chip_id
 
-Mudul löschen:
+Modul löschen:
+
 python -m esptool -p COMX erase_flash
 
-Image downloaden und mit aufspielen
+Image downloaden und mit aufspielen:
+
 python -m esptool -p COMX write_flash 0x00000 esp32_c3_ki_r04_backup.bin
 
