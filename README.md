@@ -6,7 +6,7 @@ Projektseite: [Prilchen LABS - KI für die Hosentasche](https://prilchen.de/ai-s
 
 Amazon: [ESP32_c3 Modul Revisionv0.4](https://amzn.to/4aTyhv8)
 
-Verwendung in eigener Verantwortung. 
+Achtung - Verwendung in eigener Verantwortung!!!
 
 
 
