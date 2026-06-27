@@ -2,7 +2,7 @@
 
 Mit diesem Tool kannst du das vollständige Backup des ESP32‑C3 Mini AI‑Sprachdialog Modul für Revisionv0.4 mit 16MB Flash zurückspielen.
 
-Projektseite: [Prilchen LABS](https://prilchen.de/ai-sprachdialog-mit-einem-kleinen-esp32-c3/)
+Projektseite: [Prilchen LABS - KI für die Hosentasche](https://prilchen.de/ai-sprachdialog-mit-einem-kleinen-esp32-c3/)
 
 Amazon: [ESP32_c3 Modul Revisionv0.4](https://amzn.to/4aTyhv8)
 
