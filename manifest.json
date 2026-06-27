@@ -1,0 +1,15 @@
+{
+  "name": "ESP32-C3MiniAI-SprachdialogHerstellerImageV5.26",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32_C3",
+      "parts": [
+        {
+          "path": "esp32_c3_ki_r04_backup.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
